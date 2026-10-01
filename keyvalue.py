@@ -29,7 +29,7 @@ def display_header(title):
 
 
 def pause():
-    input("\nPress Enter to continue...")
+    input("\n..............Press Enter to continue.............")
 
 
 
